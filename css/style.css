@@ -1,0 +1,212 @@
+html{
+    background-color:grey;
+    background-image: url(../img/cloud5.png);
+    background-size: cover;
+	margin: auto;
+	padding-bottom: 50px;
+    padding-top: 1px;
+    display: block;
+	margin-right: auto;
+	margin-left: auto;  
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1200px;
+    margin: auto;
+}  
+.topnav {
+   overflow: hidden;
+}
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 20px 60px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.topnav2 a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 20px 20px;
+    text-decoration: none;
+    font-size: 17px;
+}
+  
+.topnav a:hover {
+ background-color: #ddd;
+ color: black;
+}
+.topnav a.active {
+ background-color: orangered;
+ color: white;
+}
+.topnav2 a.active2 {
+    background-color: red;
+    color: white;
+   }
+.logo{
+    width: 180px;
+    height: 50px;
+    float: right;
+}
+.logoSud{
+    width: 180px;
+    height: 50px;
+    margin-right: 5%;
+    margin-left: 4%;
+    margin-top: 1%;
+}
+h2{
+    color: white;
+    margin-bottom: 0%;
+}
+.articleCarteDeFarnce{
+    margin-top: 5%;
+    background-image: url(../img/black.png);
+    padding: 5%;
+    height: 800px;
+    width: 600px;
+}
+.imageIndex{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 865px;
+    margin-left: 10%;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+footer{
+    margin-top: 25%;
+    padding: 5%;
+}
+address{
+    color: white;
+    text-align: center;
+}
+.articleCarteDeFrance2{
+    margin-top: 1%;
+    padding: 5%;
+    width: 50%;
+   
+}
+.transparent{
+    color: transparent;
+}
+.imageRegion{
+    max-width: 100%;
+    height: auto;
+    float: right ;
+    border: 5px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+}
+.articleRegionETDepartement{
+    width: 80%;
+    margin-top: 1%;
+    padding: 15px;
+    height: 300%;
+    margin-left: 10%;
+    
+
+}
+label{
+    color: ivory;
+    font-size: 100%;
+}
+p{
+    color: white;
+    font-size: 150%;
+}
+h2{
+    color: orangered;
+}
+h3{
+    color: orangered; 
+}
+table {
+    border-collapse: collapse;
+    margin-left:auto; 
+    margin-right:auto;
+}
+  
+  table, th, td {
+    border: 1px solid black;
+    text-align: center;
+    background-color: teal;
+  }
+.articleInfosVille{
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding: 15px;
+    height: 300%;
+}
+.articleMeteo{
+    width: 104%;
+    margin-top: 1%;
+    padding: 15px;
+    height: 300%;
+    border-radius: 4px;
+    padding: 5px;
+    border: 5px solid #ddd;
+    text-align: center;
+}
+.articleMeteoDerniereVilleVisite{
+    width: 70%;
+    margin-top: 7%;
+    padding: 3.5px;
+    height: 310%;
+    border-radius: 4px;
+    padding: 5px;
+    border: 5px solid #ddd;
+    text-align: center;
+    margin-left: 13%;
+}
+.icon1Day{
+    margin-left: 20%;
+    float: left;
+    margin-bottom: 10%;
+    
+}
+.temp{
+    font-size: 440%;
+    color: grey;
+}
+
+.articleCarteDeFrance2{
+    margin-right: 30%;
+}
+.p2{
+    text-align: left;
+    color :grey;
+    margin-left: 5%;
+}
+.p3{
+    text-align: center;
+    color: grey;
+}
+.graphique{
+    border-radius: 4px;
+    padding: 5px;
+    border: 5px solid #ddd;
+    margin-left: 8%;
+}
+.articleStat{
+    margin-top: 5%;
+}
+.h2Index{
+    margin-left: 20%;
+}
+li{
+    font-size: 100%;
+    color: honeydew;
+}
+.articleNew{
+    margin-top: 10%;
+}
